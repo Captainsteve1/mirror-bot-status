@@ -1,12 +1,12 @@
 {
   "bots": {
     "bot1": {
-      "base_url_of_bot": "http://192.46.214.73",
+      "base_url_of_bot": "http://192.46.214.73:80",
       "host": "Linode",
       "bot_uname": "@Tmirroreechbot"
     },
     "bot2": {
-      "base_url_of_bot": "http://139.162.9.220",
+      "base_url_of_bot": "http://139.162.9.220:80",
       "host": "Linode",
       "bot_uname": "@Tmirrorleechvls2bot"
     }
