@@ -3,12 +3,12 @@
     "bot1": {
       "base_url_of_bot": "http://0.0.0.0",
       "host": "Linode",
-      "bot_uname": "@Tmirrorleechvls2bot"
+      "bot_uname": "@Tmirroreechbot"
     },
     "bot2": {
       "base_url_of_bot": "http://0.0.0.0",
       "host": "Linode",
-      "bot_uname": ""
+      "bot_uname": "@Tmirrorleechvls2bot"
     }
   },
   "channels": {
